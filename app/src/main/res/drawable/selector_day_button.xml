@@ -1,0 +1,13 @@
+<!-- res/drawable/selector_day_button.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape>
+            <solid android:color="#C8E6C9"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@android:color/darker_gray"/>
+        </shape>
+    </item>
+</selector>
